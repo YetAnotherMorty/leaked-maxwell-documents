@@ -1,2 +1,2 @@
-# leaked-maxwell-documents
-A back up of the Ghislaine Maxwell documents.
+# The Leaked Ghislaine Maxwell Documents Archive
+A back up of the Ghislaine Maxwell documents. These documents were obtained through [milnenews.com](https://milnenews.com/2020/07/31/download-the-unsealed-ghislaine-maxwell-documents-here-aka-the-epstein-files/). There will be a wiki showing off all the documents to their fullest. However, if you want to fork this for archival purposes, please do so. I've run a basic scan on the files and found no evidence of any sorts of viruses.
